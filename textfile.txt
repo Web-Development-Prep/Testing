@@ -2,3 +2,4 @@ this is the changed file another time
 another line
 another line after adding
 Changed another line
+another line with branch changed
