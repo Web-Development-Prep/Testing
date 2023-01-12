@@ -3,3 +3,4 @@ another line
 another line after adding
 Changed another line
 another line with branch changed
+yet another with another line to commit in the repository and then clearing
